@@ -492,7 +492,7 @@ ul
 /* start newsletter */
 #newsletter
   {
-    background: url('../images/img-1.jpg') no-repeat center center;
+    background: url('../images/img-11.jpg') no-repeat center center;
     background-size: cover;
    background-attachment: fixed;
     color: #FFFFFF;
@@ -693,7 +693,7 @@ ul
 /* start contact */
 #contact
   {
-    background: #404040 url('../images/img-2.jpg') no-repeat;
+    background: #404040 url('../images/img-10.jpg') no-repeat;
     background-size: cover;
     background-attachment: fixed;
     color: #FFFFFF;
