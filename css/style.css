@@ -138,7 +138,7 @@ h1 { margin: 0; }
 .flexslider .slides img {
   width: 100%;
   min-width: 648px;
-  min-height: 270px;
+  max-height: 600px;
   display: block;
 }
 .flexslider .slides > li {
